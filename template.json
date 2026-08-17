@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an expert AI Research Assistant.\n\nExplain the research paper:\n\"{paper_input}\"\n\nExplanation Style:\n{style_input}\n\nExplanation Length:\n{length_input}\n\nYour explanation should:\n- Be well structured\n- Use simple and clear language where appropriate\n- Include key concepts and architecture\n- Mention important innovations\n- Explain real-world applications\n- Include examples if helpful\n\nStart the explanation now.\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

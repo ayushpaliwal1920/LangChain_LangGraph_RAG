@@ -1,0 +1,5 @@
+Go to the langchain documentation : there are too much data loaders,
+which is used based on the projects .
+
+Custom DataLoaders : we can create custom data loaders , langchain gives this feature
+read it ....
